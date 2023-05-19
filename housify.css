@@ -408,9 +408,15 @@ body{
 
 }
 @media (max-width: 477px) {
-    #header{
-        padding: 10px 30px;
-    }
+#header{
+padding: 10px 30px;
+}
+#estate .set{
+width: 90%;
+}   
+#estate button{
+width: 89%;
+}    
     #hero_head {
         background-position: 55%;
     }
