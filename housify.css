@@ -210,6 +210,9 @@ body{
 #product1 .pro p1{
     color: red;
 }
+.pro img{
+    padding-bottom: 10px;
+}
 .pro h5{
     font-family: 'Montserrat', sans-serif;
     text-overflow: ellipsis;
