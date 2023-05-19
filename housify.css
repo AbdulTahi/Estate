@@ -133,6 +133,9 @@ body{
  display: flex;
  flex-wrap: wrap;
 }
+#estate .set{
+    width: 16.6%;
+}
 #estate .opt{
     display: flex;
     flex-wrap: wrap;
@@ -369,6 +372,9 @@ body{
     color: #222;
     font-size: 24px;
 }
+#estate .set{
+    width: 90%;
+}    
 #hero_head {
     height: 110vh;
     background-position: top 30% right 30%;
