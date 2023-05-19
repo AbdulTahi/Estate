@@ -374,6 +374,9 @@ body{
 }
 #estate .set{
     width: 90%;
+}   
+#estate button{
+    width: 89%;
 }    
 #hero_head {
     height: 110vh;
